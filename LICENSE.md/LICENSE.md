@@ -1,8 +1,10 @@
-This repository contains all the sources of the eurorack module which was the subject of my bachelor thesis.
+This repository contains all the resources of the eurorack module which is the subject of my bachelor thesis.
+
 
 Schematics, arduino and max code are licensed under CC-BY-SA
 
 for any further information don't esitate to contact me, 
+
 
 Stefano Manconi
 
