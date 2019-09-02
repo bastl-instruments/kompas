@@ -1,12 +1,12 @@
-This repository contains all the resources of the eurorack module which is the subject of my bachelor thesis.
+This repository contains all the resources of the eurorack module which was developed for my bachelors thesis and produced with the support of Bastl Instruments.
 
 
-Schematics, arduino and max code are licensed under CC-BY-SA
+Schematics, Firmware and code examples are licensed under CC-BY-SA
 
 for any further information don't esitate to contact me, 
 
 
 Stefano Manconi
 
-24-08-2018
+02-09-2019
 
