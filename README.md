@@ -1,2 +1,9 @@
 # kompas
-All the resources from my bachelor thesis project
+
+This repository contains all the files related to the eurorack module Kompas which was developed and produced in collaboration with Bastl-Instruments.
+
+All the contents are licensed under CC-BY-SA.
+
+Stefano Manconi 
+
+02-09-2019
